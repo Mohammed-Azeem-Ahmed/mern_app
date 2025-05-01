@@ -1,0 +1,22 @@
+.App {
+    font-family: sans-serif;
+    padding: 2rem;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  input {
+    padding: 0.5rem;
+    width: 70%;
+  }
+  
+  button {
+    padding: 0.5rem;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
